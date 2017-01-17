@@ -1,14 +1,14 @@
 import { Hero } from './hero';
 
 export const HEROES: Hero[] = [
-  {id: 11, name: 'Mr. Nice'},
-  {id: 12, name: 'Narco'},
-  {id: 13, name: 'Bombasto'},
-  {id: 14, name: 'Celeritas'},
-  {id: 15, name: 'Magneta'},
-  {id: 16, name: 'RubberMan'},
-  {id: 17, name: 'Dynama'},
-  {id: 18, name: 'Dr IQ'},
-  {id: 19, name: 'Magma'},
-  {id: 20, name: 'Tornado'}
+  {id: 11, name: 'ASP.NET Core'},
+  {id: 12, name: 'Ruby on Rails'},
+  {id: 13, name: 'ASP.NET Web API'},
+  {id: 14, name: 'Postgresql'},
+  {id: 15, name: 'Angular 2'},
+  {id: 16, name: 'Android Development'},
+  {id: 17, name: 'CoffeeScript aka JS'},
+  {id: 18, name: 'Azure & Heroku'},
+  {id: 19, name: 'Scrapy (Python)'},
+  {id: 20, name: 'C, C#'}
 ];
